@@ -1,5 +1,13 @@
 # IMEI CHALLENGE BY GLOBALTEK SECURITY
 
+## Before start
+
+Clones this repository in following path typing this command in a terminal
+
+```cmd
+git clone https://github.com/AND3SIL4/crm-imei-challenge.git c:\imei-challenge
+```
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
@@ -10,7 +18,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
+│   │   └── Components
 │   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/

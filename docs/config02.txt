@@ -1,2 +1,2 @@
-#Url web site
+# Url web site
 strURLWebSite=https://www.imeicolombia.com.co

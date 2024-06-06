@@ -11,43 +11,46 @@ const DATA = {
   password: 'Alemania2024*',
 };
 
-const LoginComponent: React.FC<string> = () => {
+const LoginComponent: React.FC = () => {
   const { register, handleSubmit } = useForm<Inputs>();
 
   const onSubmit: SubmitHandler<Inputs> = (data) => {
     if (data.email === DATA.email && data.password === DATA.password) {
-      window.location.href = '/CRM';
-      toast.success('Login exitoso', { position: 'bottom-center' });
+      window.location.href = '/crm';
+      localStorage.setItem('authentication', 'true');
+
+      toast.success('Login exitoso', {
+        position: 'bottom-center',
+        duration: 5000,
+      });
     } else {
-      toast.info('Datos incorrectos', { position: 'bottom-center' });
+      toast.info('Datos incorrectos', {
+        position: 'bottom-center',
+        duration: 5000,
+      });
     }
   };
 
   return (
     <form id="login-form" className="w-full" onSubmit={handleSubmit(onSubmit)}>
       <div className="mb-5">
-        <label className="block mb-2 text-sm text-gray-900 dark:text-white">
-          Correo electronico
-        </label>
         <input
           {...register('email')}
           type="email"
           id="email"
-          className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+          className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-sm focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
           placeholder="name@globalteksecurity.com "
           required
         />
       </div>
       <div className="mb-5">
-        <label className="block mb-2 text-sm text-gray-900 dark:text-white">
-          Contraseña
-        </label>
         <input
           {...register('password')}
           type="password"
           id="password"
-          className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
+          className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-sm focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
           required
+          placeholder="Contraseña"
           minLength={6}
         />
       </div>
@@ -55,7 +58,7 @@ const LoginComponent: React.FC<string> = () => {
         <button
           id="button"
           type="submit"
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-full"
+          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 rounded-sm text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-full"
         >
           Iniciar Sesión
         </button>

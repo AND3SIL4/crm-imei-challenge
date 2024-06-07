@@ -7,7 +7,7 @@ const DataEntry: React.FC = () => {
     event.preventDefault();
     toast.success('Datos registrados correctamente', {
       position: 'bottom-center',
-      duration: 4000,
+      duration: 5000,
     });
   };
   return (

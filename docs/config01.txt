@@ -10,3 +10,6 @@ strURLWebSite=https://www.imeicolombia.com.co
 ## Credential for testing
 strEmailUser=andres.silva@globalteksecurity.com
 strPasswordUser=Alemania2024*
+
+## Error file path
+strErrorFilePath=C:\imei-challenge\docs\errores\failed.txt

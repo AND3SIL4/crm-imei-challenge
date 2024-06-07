@@ -3,7 +3,8 @@ import { toast } from 'sonner';
 import InputComponent from './ui/Input';
 
 const DataEntry: React.FC = () => {
-  const onClickHandler = () => {
+  const onClickHandler = (event: React.MouseEvent<HTMLButtonElement>) => {
+    event.preventDefault();
     toast.success('Datos registrados correctamente', {
       position: 'bottom-center',
       duration: 4000,

@@ -2,5 +2,11 @@
 strPath=C:\imei-challenge\docs
 
 ## URL clone SAP
-strURLWebSite=https://sapclone.vercel.app
+strSapCloneURL=https://sapclone-lac.vercel.app
 
+# Url web site
+strURLWebSite=https://www.imeicolombia.com.co
+
+## Credential for testing
+strEmailUser=andres.silva@globalteksecurity.com
+strPasswordUser=Alemania2024*

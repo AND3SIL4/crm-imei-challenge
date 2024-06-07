@@ -12,4 +12,10 @@ strEmailUser=andres.silva@globalteksecurity.com
 strPasswordUser=Alemania2024*
 
 ## Error file path
-strErrorFilePath=C:\imei-challenge\docs\errores\failed.txt
+strErrorFilePath=C:\imei-challenge\docs\errores\failedErrorsLogs.txt
+
+## Email id destinatary
+strCustomerEmail=andres1felipe2silva3@gmail.com
+
+## Temp file path
+strTempFilePath=C:\imei-challenge\docs\temp\tempFile.txt

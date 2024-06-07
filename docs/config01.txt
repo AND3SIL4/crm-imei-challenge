@@ -2,5 +2,5 @@
 strPath=C:\imei-challenge\docs
 
 ## URL clone SAP
-strURLWebSite=https://clonse-sap.vercel.app
+strURLWebSite=https://sapclone.vercel.app
 

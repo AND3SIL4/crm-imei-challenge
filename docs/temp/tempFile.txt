@@ -1,2 +1,14 @@
 (7/06/2024 4:24:01 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123456789012345 No encontrado
 (7/06/2024 4:28:19 p. m.) Respuesta del bot \Bots\IMEI\05-Child(SendEmail): correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com
+(7/06/2024 5:43:52 p. m.) Archivo abierto C:\imei-challenge\docs\Input\ImeiFile01.csv exitosamente.
+(7/06/2024 5:44:30 p. m.) Archivo abierto C:\imei-challenge\docs\Input\ImeiFile01.csv exitosamente.
+(7/06/2024 5:48:59 p. m.) Archivo abierto C:\imei-challenge\docs\Input\ImeiFile01.csv exitosamente.
+(7/06/2024 5:49:21 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123457000000000 No encontrado
+(7/06/2024 5:49:29 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(7/06/2024 5:51:42 p. m.) Archivo abierto C:\imei-challenge\docs\Input\ImeiFile01.csv exitosamente.
+(7/06/2024 5:52:09 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123457000000000 No encontrado
+(7/06/2024 5:52:36 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123456789123456 No encontrado
+(7/06/2024 5:53:19 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123457000000000 No encontrado
+(7/06/2024 5:53:46 p. m.) Respuesta del bot \Bots\IMEI\03-Child(SearchingDBChatGPT): IMEI 123456789123456 No encontrado
+(7/06/2024 5:54:13 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(7/06/2024 5:54:19 p. m.) Respuesta del bot \Bots\IMEI\05-Child(SendEmail): correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com

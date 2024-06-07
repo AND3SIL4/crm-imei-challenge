@@ -1,0 +1,60 @@
+---
+import DataEntry from '../components/DataEntry';
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Registar Datos">
+  <header class="w-full bg-black/15 py-5 px-3">
+    <div class="">
+      <h1 class="text-2xl font-bold text-black/70 text-center">
+        Bienvenido al SAP pruebas
+      </h1>
+    </div>
+    <span
+      id="logOut"
+      class="text-sm hover:cursor-pointer hover:border-b-black border border-transparent p-2"
+      >Cerrar sesión</span
+    >
+  </header>
+  <div id="main">
+    <div class="container rounded-sm shadow-md shadow-[#000000] bg-background">
+      <DataEntry client:idle />
+    </div>
+  </div>
+
+  <style>
+    #main {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 3rem;
+    }
+    .container {
+      background-color: white;
+      border: 1px solid #000000;
+      width: 30rem;
+      display: flex;
+      padding: 1rem;
+      justify-content: center;
+      align-items: start;
+      flex-direction: column;
+      height: auto;
+    }
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  </style>
+</Layout>
+
+<script>
+  import { toast } from 'sonner';
+
+  const logOut = document.getElementById('logOut');
+  logOut?.addEventListener('click', () => {
+    toast.info('Sesión cerrada', { position: 'bottom-center', duration: 5000 });
+    localStorage.removeItem('authentication');
+    window.location.href = '/';
+  });
+</script>

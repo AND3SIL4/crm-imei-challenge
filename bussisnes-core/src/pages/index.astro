@@ -1,0 +1,39 @@
+---
+import Login from '../components/Login';
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Login IMEI">
+  <main>
+    <div class="container rounded-sm shadow-md shadow-black">
+      <div class="mb-10">
+        <h1 class="text-xl text-[grey]">SAP pruebas</h1>
+        <h2 class="text-4xl text-black/80">Aplicación de pruebas CRM</h2>
+        <p class="text-black/70">
+          Por favor inicie sesión usando sus correo electrónico y contraseña
+        </p>
+      </div>
+      <Login client:idle />
+    </div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .container {
+    background-color: white;
+    border: 1px solid black;
+    width: 30rem;
+    display: flex;
+    padding: 1rem;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    height: auto;
+  }
+</style>

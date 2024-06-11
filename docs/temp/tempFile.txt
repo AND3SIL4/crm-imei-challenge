@@ -55,3 +55,108 @@
 (11/06/2024 1:02:13 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
 (11/06/2024 1:02:45 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
 (11/06/2024 1:03:06 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 2:20:48 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 2:21:08 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963520 No encontrado
+(11/06/2024 2:21:47 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123457000000000 No encontrado
+(11/06/2024 2:22:13 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 2:22:43 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 2:22:50 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 2:56:17 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 2:56:42 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963520 No encontrado
+(11/06/2024 2:57:09 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123457000000000 No encontrado
+(11/06/2024 2:57:35 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 2:58:05 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 2:58:09 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:00:53 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:01:26 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963520 No encontrado
+(11/06/2024 3:01:52 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123457000000000 No encontrado
+(11/06/2024 3:02:17 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 3:02:44 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 3:02:46 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:02:48 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 3:02:51 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 3:02:53 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 3:03:14 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 3:03:40 p. m.) 06-11-2024. IMEI 123456789123456 duplicado.
+(11/06/2024 3:03:42 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:11:19 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:11:51 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963521 No encontrado
+(11/06/2024 3:12:27 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123455 No encontrado
+(11/06/2024 3:13:23 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963522 No encontrado
+(11/06/2024 3:14:19 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123459 No encontrado
+(11/06/2024 3:14:29 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:14:32 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 3:14:55 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963520 No encontrado
+(11/06/2024 3:15:29 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 3:15:58 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:31:31 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:31:53 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963521 No encontrado
+(11/06/2024 3:32:28 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123459 No encontrado
+(11/06/2024 3:33:29 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123459 No encontrado
+(11/06/2024 3:34:19 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:34:22 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 3:34:42 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 234571548963520 No encontrado
+(11/06/2024 3:35:24 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI 123456789123456 No encontrado
+(11/06/2024 3:36:05 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:43:20 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:43:44 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:44:24 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:45:28 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:46:09 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:46:12 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 3:46:32 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:47:14 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:47:49 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:56:08 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:56:26 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 3:56:58 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:57:36 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:58:23 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:58:43 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 3:58:46 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 3:59:07 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 3:59:49 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: No encontrado
+(11/06/2024 4:00:06 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 4:33:07 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:34:16 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:34:39 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI no reportado
+(11/06/2024 4:35:14 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI no reportado
+(11/06/2024 4:35:48 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI no reportado
+(11/06/2024 4:36:03 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 4:36:06 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 4:36:29 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI no reportado
+(11/06/2024 4:37:03 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: IMEI no reportado
+(11/06/2024 4:37:16 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 4:42:22 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:42:55 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:43:30 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:43:50 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 4:43:52 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 4:44:10 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:44:51 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:45:06 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 4:46:27 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:46:53 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:47:30 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:55:11 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:55:53 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 4:58:12 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:59:11 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file-2.csv exitosamente.
+(11/06/2024 4:59:46 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:00:29 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:00:48 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 5:00:51 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 5:00:54 p. m.) 06-11-2024. IMEI 123456789012345 duplicado.
+(11/06/2024 5:00:57 p. m.) 06-11-2024. IMEI 123456789012345 duplicado.
+(11/06/2024 5:01:22 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:01:38 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 5:04:03 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 5:04:42 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:05:22 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:06:20 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:06:35 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(11/06/2024 5:07:28 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(11/06/2024 5:07:58 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:08:17 p. m.) 06-11-2024. IMEI 123456789012345 duplicado.
+(11/06/2024 5:08:39 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(11/06/2024 5:08:55 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output

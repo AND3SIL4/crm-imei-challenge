@@ -29,3 +29,32 @@ C:\imei-challenge\docs\Output\ImeiFile01.csv: El proceso no tiene acceso al arch
 Please contact system administrator. 
 (11/06/2024 1:01:05 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
 (11/06/2024 1:02:41 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:22:40 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:22:47 p. m.) 06-11-2024. IMEI 1234567891345 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:22:50 p. m.) 06-11-2024. IMEI 56412398752642 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:58:02 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:58:07 p. m.) 06-11-2024. IMEI 1234567891345 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 2:58:09 p. m.) 06-11-2024. IMEI 56412398752642 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:02:43 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:02:46 p. m.) 06-11-2024. IMEI 1234567891345 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:02:46 p. m.) 06-11-2024. IMEI 56412398752642 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:03:40 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:03:42 p. m.) 06-11-2024. IMEI 1234567891345 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:03:42 p. m.) 06-11-2024. IMEI 56412398752642 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:14:13 p. m.) Error tiempo de espera agotado. 36. Detalles: Cannot find window or application titled 'Consulta SRTM - Trabajo: Microsoft? Edge' that was open during recording. Terminando proceso
+(11/06/2024 3:33:11 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:34:11 p. m.) Error al registrar los datos. Linea 39. Detalles Error: Unable to find CLIENT. Search Criteria did not match.
+(11/06/2024 3:45:05 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 3:56:08 p. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 43. Detalles Error: An unexpected error occurred. 
+C:\imei-challenge\docs\Output\imei-file-2.csv: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+ 
+Please contact system administrator. 
+(11/06/2024 3:58:00 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 4:33:07 p. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 43. Detalles Error: An unexpected error occurred. 
+C:\imei-challenge\docs\Output\imei-file-2.csv: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+ 
+Please contact system administrator. 
+(11/06/2024 4:35:32 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 4:43:50 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 5:00:48 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 5:05:46 p. m.) Error al registrar los datos. Linea 39. Detalles Error: Unable to find CLIENT. Search Criteria did not match.

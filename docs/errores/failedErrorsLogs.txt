@@ -3,3 +3,29 @@
 (7/06/2024 4:18:51 p. m.) Erro en conexión con OpenAI API. Linea: 7. Descripción error: OpenAI failed to process the request.  Error: HTTP 401  Se procede a enviar desde Outlook
 (7/06/2024 4:19:31 p. m.) Error en conexión con OpenAI API. Linea: 7. Descripción error: OpenAI failed to process the request.  Error: HTTP 401 
 (7/06/2024 4:27:33 p. m.) Respuesta del bot \Bots\IMEI\05-Child(SendEmail): correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com
+(11/06/2024 11:54:16 a. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 11:54:16 a. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 70. Detalles Error: An unexpected error occurred. 
+Unable to locate child bot "02-Child(SearchingDBIMEI)" in the Control Room. Check that the specified file path is correct. 
+Please contact system administrator. 
+(11/06/2024 11:56:22 a. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 12:39:03 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 12:40:35 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 12:47:30 p. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 43. Detalles Error: An unexpected error occurred. 
+C:\imei-challenge\docs\Output\ImeiFile01.csv: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+ 
+Please contact system administrator. 
+(11/06/2024 12:47:49 p. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 43. Detalles Error: An unexpected error occurred. 
+C:\imei-challenge\docs\Output\ImeiFile01.csv: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+ 
+Please contact system administrator. 
+(11/06/2024 12:49:57 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 12:51:52 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+Error tiempo de espera agotado. 36. Detalles: Cannot find window or application titled 'Consulta SRTM - Trabajo: Microsoft? Edge' that was open during recording. Terminando proceso
+(11/06/2024 12:53:01 p. m.) Error al registrar los datos. Linea 37. Detalles Error: Unable to find CLIENT. Search Criteria did not match.
+(11/06/2024 12:53:50 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 12:59:28 p. m.) Error en la ejecución del bot \Bots\IMEI\01F-FileManager. Linea 43. Detalles Error: An unexpected error occurred. 
+C:\imei-challenge\docs\Output\ImeiFile01.csv: El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso.
+ 
+Please contact system administrator. 
+(11/06/2024 1:01:05 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.
+(11/06/2024 1:02:41 p. m.) 06-11-2024. IMEI 123457000 no tiene la longitud valida para poder hacer la consulta.

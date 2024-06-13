@@ -160,3 +160,39 @@
 (11/06/2024 5:08:17 p. m.) 06-11-2024. IMEI 123456789012345 duplicado.
 (11/06/2024 5:08:39 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
 (11/06/2024 5:08:55 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 11:50:40 a. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(12/06/2024 11:51:02 a. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 11:51:18 a. m.) 06-12-2024. IMEI 123456789012345 duplicado.
+(12/06/2024 11:51:38 a. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 11:51:57 a. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 12:31:51 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(12/06/2024 12:32:16 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:32:52 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:33:09 p. m.) 06-12-2024. IMEI 657387582194738 duplicado.
+(12/06/2024 12:33:32 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:34:20 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:34:34 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 12:57:57 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(12/06/2024 12:58:16 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:58:58 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 12:59:14 p. m.) 06-12-2024. IMEI 657387582194738 duplicado.
+(12/06/2024 12:59:35 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:00:19 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:00:30 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 01:00:36 p. m.) Respuesta del bot \Bots\IMEI\05C-SendEmail: correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com
+(12/06/2024 01:55:39 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(12/06/2024 01:56:09 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:56:52 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:57:14 p. m.) 06-12-2024. IMEI 657387582194738 duplicado.
+(12/06/2024 01:57:53 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:58:32 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 01:58:50 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 01:58:58 p. m.) Respuesta del bot \Bots\IMEI\05C-SendEmail: correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com
+(12/06/2024 02:19:58 p. m.) Archivo abierto C:\imei-challenge\docs\Input\imei-file.csv exitosamente.
+(12/06/2024 02:20:30 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 02:21:14 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 02:21:36 p. m.) 06-12-2024. IMEI 657387582194738 duplicado.
+(12/06/2024 02:21:54 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 02:22:42 p. m.) Respuesta del bot \Bots\IMEI\03C-SearchingDBChatGPT: (CDB) IMEI no reportado
+(12/06/2024 02:23:00 p. m.) Proceso terminado con exito. Archivo guardado en la ruta: C:\imei-challenge\docs\Output
+(12/06/2024 02:23:08 p. m.) Respuesta del bot \Bots\IMEI\05C-SendEmail: correo electronico enviado correctamente al destinatario: andres1felipe2silva3@gmail.com

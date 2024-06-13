@@ -1,3 +1,5 @@
 EmpresaTel;TipoDocumento;NitEmpresa;IMEI;FechaBusqueda;RespuestaNegativa;RespuestaOpenAI
-Tigo;Cedula de extranjeria;123456789;123456789012345;06-11-2024 17:08:14;(NDB) IMEI reportado;(CDB) IMEI no reportado
-Comcel;Cedula de ciudadania;123456789;123456789123456;06-11-2024 17:08:55;(NDB) IMEI reportado;(CDB) IMEI no reportado
+Tigo;Cedula de extranjeria;44446588232;123456789012345;06-12-2024 14:20:49;(NDB) IMEI reportado;(CDB) IMEI no reportado
+ETB;PEP;2030145063;657387582194738;06-12-2024 14:21:33;(NDB) IMEI no reportado;(CDB) IMEI no reportado
+Comcel;Cedula de ciudadania;45451545537;395456789123456;06-12-2024 14:22:16;(NDB) IMEI no reportado;(CDB) IMEI no reportado
+ETB;PEP;2030145063;953674128635428;06-12-2024 14:23:00;(NDB) IMEI no reportado;(CDB) IMEI no reportado

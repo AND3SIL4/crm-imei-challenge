@@ -58,3 +58,8 @@ Please contact system administrator.
 (11/06/2024 4:43:50 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
 (11/06/2024 5:00:48 p. m.) 06-11-2024. IMEI 2345715489635 no tiene la longitud valida para poder hacer la consulta.
 (11/06/2024 5:05:46 p. m.) Error al registrar los datos. Linea 39. Detalles Error: Unable to find CLIENT. Search Criteria did not match.
+(12/06/2024 11:51:57 a. m.) 06-12-2024. IMEI 9874563215 no tiene la longitud valida para poder hacer la consulta.
+(12/06/2024 12:33:50 p. m.) 06-12-2024. IMEI 9874563215 no tiene la longitud valida para poder hacer la consulta.
+(12/06/2024 12:59:51 p. m.) 06-12-2024. IMEI 9874563215 no tiene la longitud valida para poder hacer la consulta.
+(12/06/2024 01:58:13 p. m.) 06-12-2024. IMEI 9874563215 no tiene la longitud valida para poder hacer la consulta.
+(12/06/2024 02:22:19 p. m.) 06-12-2024. IMEI 9874563215 no tiene la longitud valida para poder hacer la consulta.
